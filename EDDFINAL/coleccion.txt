@@ -1,0 +1,2 @@
+4;Guardian;Tierra;30;100;3
+1;Dragon de Fuego;Fuego;80;50;4
